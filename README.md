@@ -1,4 +1,4 @@
-**Projet 4 du parcours de dévelopeur web - Openclassrooms**
+**Projet 4 du parcours de développeur web - Openclassrooms**
 
 _Scénario:_
 
