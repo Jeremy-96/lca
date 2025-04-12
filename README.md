@@ -18,7 +18,7 @@ Je travaille pour La chouette agence, une grande agence de web design basée à 
 Cloner le repository
 
 ```
-git clone https://github.com/Jeremy-96/JeremyThonon_4_21092021.git
+git clone https://github.com/Jeremy-96/lca.git
 ```
 
 Ouvrir index.html dans le navigateur
